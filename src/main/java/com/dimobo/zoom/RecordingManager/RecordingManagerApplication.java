@@ -11,6 +11,7 @@ public class RecordingManagerApplication {
 		System.out.println("test2");
 		System.out.println("test3");
 		System.out.println("test4");
+		System.out.println("test5");
 		SpringApplication.run(RecordingManagerApplication.class, args);
 	}
 
